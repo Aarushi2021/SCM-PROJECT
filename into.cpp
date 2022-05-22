@@ -25,7 +25,8 @@ int sum=amount1+am2;
 cout<<"sum "<<sum<<endl;
 cout<<"hrllo";
 cout<<"whats app";
-
+cout<<"Whats going on";
+cout<<"I am a great coder";
 return 0;	
 //  \n this is used add line break
 //curly braces indicate starting and ending
