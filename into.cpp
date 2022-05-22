@@ -23,7 +23,8 @@ int am2;
 cin>>am2; 
 int sum=amount1+am2;
 cout<<"sum "<<sum<<endl;
-
+cout<<"hrllo";
+cout<<"whats app";
 
 return 0;	
 //  \n this is used add line break
